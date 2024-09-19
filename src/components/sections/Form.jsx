@@ -8,7 +8,7 @@ import firebase from 'firebase/app';
 import 'firebase/firestore';
 
 const firebaseConfig = {
-    apiKey: "AIzaSyA6VRfKh4Ct4lXO60oWxRf46d2bI2dIHpg",
+    apiKey: "",
     authDomain: "shareskill-866a0.firebaseapp.com",
     databaseURL: "https://shareskill-866a0-default-rtdb.asia-southeast1.firebasedatabase.app",
     projectId: "shareskill-866a0",
